@@ -12,3 +12,4 @@
 * [相似](./C/mei5.c "相似")
 * [密码锁](./C++/PasswordLock.cpp "密码锁")
 * [城市修建](./C/BuildCity.c "城市修建")
+* [统计字符](./C/MediaTek_exam.c "统计字符")
